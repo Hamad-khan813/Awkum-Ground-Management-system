@@ -1,0 +1,5 @@
+{
+  "name": "UniSportsBook",
+  "description": "A comprehensive digital booking system for university sports grounds, featuring student portals, admin management, and real-time availability tracking.",
+  "requestFramePermissions": []
+}
